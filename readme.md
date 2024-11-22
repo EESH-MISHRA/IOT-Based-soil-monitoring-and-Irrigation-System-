@@ -1,3 +1,14 @@
+-->APPLICATION LAYOUT<--
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/page_1.jpg" alt="Image 1" width="250" height="400">
+    <img src="assets/page_2.jpeg" alt="Image 2" width="400" height="400">
+</div>
+
+
+
+
+<br>
+<br>
 --> Demonstration Video <--
 watch This :)
 
